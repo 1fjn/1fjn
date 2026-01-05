@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://github.com/1fjn" target="_blank">Alex</a> <img
+<h1 align="left">Hi, I'm <a href="https://github.com/1fjn" target="_blank">Alex</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:alex.2cllipses@gmail.com)](mailto:alex.2cllipses@gmail.com)
