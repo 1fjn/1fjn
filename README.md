@@ -8,7 +8,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <p align="left">
   <samp>
     @ me on <a href="https://x.com/t1oska">fjnee</a><br><br>
-    <img src="https://i.pinimg.com/originals/0f/33/8e/0f338e9eeb71c7d7f1ff79a3a9c5dc33.gif" width="200px" align="center">
+    <img src="https://i.pinimg.com/originals/0f/33/8e/0f338e9eeb71c7d7f1ff79a3a9c5dc33.gif" width="240px" align="center">
   </samp>
 </p>
 
