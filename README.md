@@ -1,4 +1,4 @@
- <h1 align="center">Hi, I'm <a href="https://github.com/1fjn" target="_blank">Alex</a> <img
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/7a4c20be-213b-4b3b-87f5-ab372878caa6" /> <h1 align="center">Hi, I'm <a href="https://github.com/1fjn" target="_blank">Alex</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 
@@ -19,6 +19,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <p align="center">
   <samp>
   <strong>  @ me on </strong> <a href="https://x.com/t1oska">fjnee</a><br><br>
-    <img src="https://i.pinimg.com/736x/63/bb/9f/63bb9fff26948e9cdbe1f156d2cc4a94.jpg" width="250px" align="center">
+    <img src="https://i.pinimg.com/736x/9b/35/47/9b3547b4e0d675548caf3dc626aa5b80.jpg" width="250px" align="center">
   </samp>
 </p>
