@@ -6,8 +6,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   <a href="mailto:alex.2cllipses@gmail.com">
     <img src="https://img.shields.io/badge/-mail-c14438?style=social&logo=Gmail&logoColor=red" alt="Gmail">
   </a>
-  <a href="https://medium.com/@alexqdlf">
-    <img src="https://img.shields.io/badge/@alexqdlf-black?style=flat&logo=medium&logoColor=white" alt="Medium">
+  <a href="https://substack.com/@alexqdlf/notes">
+    <!-- <img src="https://img.shields.io/badge/@alexqdlf-black?style=flat&logo=medium&logoColor=white" alt="Medium"> -->
+    <img src="https://img.shields.io/badge/@alexqdlf-FF6719?logo=substack&logoColor=fff" alt="Substack">
     </a>
 </p>
 
