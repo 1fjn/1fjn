@@ -4,7 +4,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <p align="center">
   <a href="mailto:alex.2cllipses@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red" alt="Gmail">
+    <img src="https://img.shields.io/badge/-mail-c14438?style=social&logo=Gmail&logoColor=red" alt="Gmail">
   </a>
   <a href="https://medium.com/@alexqdlf">
     <img src="https://img.shields.io/badge/@alexqdlf-black?style=flat&logo=medium&logoColor=white" alt="Medium">
