@@ -1,4 +1,4 @@
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/7a4c20be-213b-4b3b-87f5-ab372878caa6" /> <h1 align="center">Hi, I'm <a href="https://github.com/1fjn" target="_blank">Alex</a> <img
+<h1 align="center">Hi, I'm <a href="https://github.com/1fjn" target="_blank">Alex</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 
